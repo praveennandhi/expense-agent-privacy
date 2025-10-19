@@ -9,37 +9,3 @@ This repository contains the privacy policy for Expense Agent, a personal financ
 ## Contact
 
 For privacy questions, contact the server operator where your Expense Agent is hosted.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
