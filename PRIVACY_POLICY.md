@@ -1,6 +1,7 @@
 # Privacy Policy — Expense Agent
 
 Effective date: 2025-10-15
+Updated date: 2025-10-18
 
 ## Overview
 Expense Agent is a personal finance tool you self-host. Each user’s data is isolated by a unique API key and stored in a separate SQLite database file on your server (e.g., your Raspberry Pi). We do not sell or share personal data with third parties.
